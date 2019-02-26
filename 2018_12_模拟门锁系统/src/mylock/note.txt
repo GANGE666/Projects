@@ -1,0 +1,19 @@
+初始密码123456
+
+压码为(49+5+49)*3&0xFF = 53 = '5'
+
+key+salt = "123456"+"5"+"12345678900987654321"
+
+md5(salt) = bc88686263ef97f16c01083ff8197b35
+
+校验位，放在16字节hash后，占 1 Byte，计算式为 check_byte = sum(hash[i]) & 0xFF
+压码为0x5d
+
+XOR_KEY = 0xAA
+
+file_content = md5^XOR_KEY = 1622c2c8c9453d5bc6aba29552b3d19f
+
+加上压码0x5d^0xAA = 0xf7
+
+所以最后文件内容为
+1622c2c8c9453d5bc6aba29552b3d19ff7

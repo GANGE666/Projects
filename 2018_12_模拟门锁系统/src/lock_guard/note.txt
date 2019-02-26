@@ -1,0 +1,9 @@
+涉及的文件：
+../wcd_buf/buf
+
+"../mylock/mylock",
+"../bak1/mylock",
+"../bak2/mylock"
+
+../mylock/keyfile/counter
+"../mylock/keyfile/keyfile1", "../mylock/keyfile/keyfile2", "../mylock/keyfile/keyfile3"

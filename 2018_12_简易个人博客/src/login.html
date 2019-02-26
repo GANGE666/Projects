@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en" >
+
+<head>
+  <meta charset="UTF-8">
+  <title>Welcome to xxg's blog</title>
+  
+  
+  
+      <link rel="stylesheet" href="css/style.css">
+      <script  src="js/login.js"></script>
+      <script src="js/md5.js"></script>
+      <script src='http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
+  
+</head>
+
+<body>
+
+  <div class="wrapper">
+	<div class="container">
+		<h1>Welcome to xxg's blog</h1>
+		
+		<form class="form" id="submit_form" action="login.php" method="POST">
+			<input type="text" name="userName" placeholder="Username" size="20" maxlength="15">
+			<input id="login_password" name="password" type="password" placeholder="Password" size="35" maxlength="15">
+			<button type="button" onclick="password_md5_formSubmit()">Login</button>
+			<button type="button" onclick="window.location.href='register.html'">Register</button>
+		</form>
+	</div>
+	
+	<ul class="bg-bubbles">
+		<li></li>
+		<li></li>
+		<li></li>
+		<li></li>
+		<li></li>
+		<li></li>
+		<li></li>
+		<li></li>
+		<li></li>
+		<li></li>
+	</ul>
+</div>
+  
+</body>
+
+</html>

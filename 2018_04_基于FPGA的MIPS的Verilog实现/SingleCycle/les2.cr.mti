@@ -1,0 +1,138 @@
+{E:/proform file/modelsim/project/flopr.v} {1 {vlog -work work -vopt {E:/proform file/modelsim/project/flopr.v}
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module flopr
+
+Top level modules:
+	flopr
+
+} {} {}} {E:/proform file/modelsim/project/regfile.v} {1 {vlog -work work -vopt {E:/proform file/modelsim/project/regfile.v}
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module regfile
+
+Top level modules:
+	regfile
+
+} {} {}} {E:/proform file/modelsim/project/testbench.v} {1 {vlog -work work -vopt {E:/proform file/modelsim/project/testbench.v}
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module flopr
+-- Compiling module adder
+-- Compiling module sl2
+-- Compiling module mux2
+-- Compiling module mux4
+-- Compiling module regfile
+-- Compiling module signext
+-- Compiling module alu
+-- Compiling module datapath
+-- Compiling module aludec
+-- Compiling module maindec
+-- Compiling module controller
+-- Compiling module mips
+-- Compiling module dmem
+-- Compiling module imem
+-- Compiling module top
+-- Compiling module _testbench
+
+Top level modules:
+	_testbench
+
+} {} {}} {E:/proform file/modelsim/project/adder.v} {1 {vlog -work work -vopt {E:/proform file/modelsim/project/adder.v}
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module adder
+
+Top level modules:
+	adder
+
+} {} {}} {E:/proform file/modelsim/project/mips.v} {1 {vlog -work work -vopt {E:/proform file/modelsim/project/mips.v}
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module flopr
+-- Compiling module adder
+-- Compiling module sl2
+-- Compiling module mux2
+-- Compiling module mux4
+-- Compiling module regfile
+-- Compiling module signext
+-- Compiling module alu
+-- Compiling module datapath
+-- Compiling module aludec
+-- Compiling module maindec
+-- Compiling module controller
+-- Compiling module mips
+
+Top level modules:
+	mips
+
+} {} {}} {E:/proform file/modelsim/project/signext.v} {1 {vlog -work work -vopt {E:/proform file/modelsim/project/signext.v}
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module signext
+
+Top level modules:
+	signext
+
+} {} {}} {E:/proform file/modelsim/project/top.v} {1 {vlog -work work -vopt {E:/proform file/modelsim/project/top.v}
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module flopr
+-- Compiling module adder
+-- Compiling module sl2
+-- Compiling module mux2
+-- Compiling module mux4
+-- Compiling module regfile
+-- Compiling module signext
+-- Compiling module alu
+-- Compiling module datapath
+-- Compiling module aludec
+-- Compiling module maindec
+-- Compiling module controller
+-- Compiling module mips
+-- Compiling module dmem
+-- Compiling module imem
+-- Compiling module top
+
+Top level modules:
+	top
+
+} {} {}} {E:/proform file/modelsim/project/controller.v} {1 {vlog -work work -vopt {E:/proform file/modelsim/project/controller.v}
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module aludec
+-- Compiling module maindec
+-- Compiling module controller
+
+Top level modules:
+	controller
+
+} {} {}} {E:/proform file/modelsim/project/mux2.v} {1 {vlog -work work -vopt {E:/proform file/modelsim/project/mux2.v}
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module mux2
+
+Top level modules:
+	mux2
+
+} {} {}} {E:/proform file/modelsim/project/mux4.v} {1 {vlog -work work -vopt {E:/proform file/modelsim/project/mux4.v}
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module mux4
+
+Top level modules:
+	mux4
+
+} {} {}} {E:/proform file/modelsim/project/datapath.v} {1 {vlog -work work -vopt {E:/proform file/modelsim/project/datapath.v}
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module flopr
+-- Compiling module adder
+-- Compiling module sl2
+-- Compiling module mux2
+-- Compiling module mux4
+-- Compiling module regfile
+-- Compiling module signext
+-- Compiling module alu
+-- Compiling module datapath
+
+Top level modules:
+	datapath
+
+} {} {}} {E:/proform file/modelsim/project/sl2.v} {1 {vlog -work work -vopt {E:/proform file/modelsim/project/sl2.v}
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module sl2
+
+Top level modules:
+	sl2
+
+} {} {}}

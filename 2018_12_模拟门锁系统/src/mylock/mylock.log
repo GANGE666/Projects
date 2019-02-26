@@ -1,0 +1,6 @@
+init begin
+[ERROR]	LED INIT FAIL!
+ * # insmod driver/s3c2410-led0.ko
+keyboard is opened
+[INFO]	keyboard opend!
+[INFO]	Initialization Complete!
