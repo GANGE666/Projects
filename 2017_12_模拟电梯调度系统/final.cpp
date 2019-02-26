@@ -1,5 +1,3 @@
-#if 0
-
 #include<stdio.h>
 #include<stdlib.h>
 #include<math.h>
@@ -1091,5 +1089,3 @@ int main()
 µçÌÝ2£º(2+3+1)/(6+1+2+2)=54.54%
 
 */
-
-#endif

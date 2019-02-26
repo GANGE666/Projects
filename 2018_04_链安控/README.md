@@ -29,7 +29,7 @@
 - [项目计划书：      ./链安控项目计划书.docx](./链安控项目计划书.docx)
 - [展示PPT：         PPT.pdf](./PPT.pdf)
 - [P2P及后端代码：   src/P2P/](./src/P2P)
-- 移动APP代码：     https://github.com/GANGE666/JARVISS
+- 移动APP代码：     https://github.com/GANGE666/BCRC
 
 
 
