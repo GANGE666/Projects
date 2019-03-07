@@ -13,19 +13,19 @@
 
 可以通过函数名，迅速判断出可能存在安全隐患及隐私泄露的函数。
 
-![2019-03-07-18-21-46.png](2019-03-07-18-21-46.png)
+![2019-03-07-18-21-46.png](https://github.com/GANGE666/Projects/raw/master/other/2019_01_JavascriptInterface/2019-03-07-18-21-46.png)
 
 - KuaiShou.apk-JavascriptInterface-list.txt
 
 显示函数所在的具体位置，方便在jeb中定位相应代码。
 
-![2019-03-07-18-23-39.png](2019-03-07-18-23-39.png)
+![2019-03-07-18-23-39.png](https://github.com/GANGE666/Projects/raw/master/other/2019_01_JavascriptInterface/2019-03-07-18-23-39.png)
 
 - KuaiShou.apk-JavascriptInterface.java
 
 将所有函数的java源码打印出来，方便研究者对这些函数有个大致了解，省去在jeb中定位函数的时间。
 
-![2019-03-07-18-26-11.png](2019-03-07-18-26-11.png)
+![2019-03-07-18-26-11.png](https://github.com/GANGE666/Projects/raw/master/other/2019_01_JavascriptInterface/2019-03-07-18-26-11.png)
 
 
 ***
