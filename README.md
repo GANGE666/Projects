@@ -26,5 +26,5 @@
   - [模拟门锁系统 ——基于arm s2410实验台 （嵌入式安全课程大作业）](./2018_12_模拟门锁系统/)
 
 - 其他（一些小脚本）
-  - [基于androguard通过识别annotations快速导出app的JavascriptInterface](./2019_01_JavascriptInterface/)
+  - [基于androguard通过识别annotations快速导出app的JavascriptInterface](./other/2019_01_JavascriptInterface/)
 
