@@ -1,0 +1,28 @@
+编译
+make
+
+运行
+./httpd
+
+命令行配置：
+sHTTPD -l number  -m number      -o path    -c  path   -d  filename   -t seconds  -o filename
+sHTTPD --ListenPort number
+       --MaxClient number
+       --DocumentRoot) path
+       --DefaultFile) filename
+       --CGIRoot path 
+       --DefaultFile filename
+       --TimeOut seconds
+       --ConfigFile filename
+
+命令行动态配置文件：
+$ ./httpd -f myhttpd2.conf
+
+
+
+
+
+
+
+
+

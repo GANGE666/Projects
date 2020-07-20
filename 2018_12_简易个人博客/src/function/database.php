@@ -4,7 +4,7 @@
         $hosthome = "localhost";
         $database = "test";
         $userName = "root";
-        $password = "fh834t6dgf439dhcbjds8723";
+        $password = "****************";
         global $databaseConnection;
         $databaseConnection = @mysql_connect($hosthome, $userName, $password) or die (mysql_error());
         mysql_query("set names utf-8");
